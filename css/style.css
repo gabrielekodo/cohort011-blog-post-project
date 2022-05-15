@@ -13,7 +13,7 @@ nav{
 }
 
 .carousel-item img{
-    height: 500px;
+    height: 100%;
     
     object-fit: cover;
 }
