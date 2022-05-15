@@ -2,7 +2,7 @@ nav{
     height: 10vh;
 }
 #carouselExampleCaptions{
-    min-height: 90vh;
+    height: 90vh;
 }
 
 .nav-link:hover{
@@ -12,10 +12,10 @@ nav{
     border: 1.5px solid #fff;
 }
 
-.carousel-item img{
-    height: 100%;
+.carousel-item a img{
+    /* height: 100%; */
     
-    object-fit: cover;
+    object-fit: contain;
 }
 .carousel-caption{
     color: #000;
