@@ -92,4 +92,7 @@ input{
       border-radius: 5px;
   }
   
+  .container .card{
+      width: auto;
+  }
 }
