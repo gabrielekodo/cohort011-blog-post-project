@@ -85,12 +85,11 @@ input{
 
 /* media queries for home page */
 @media screen and (max-width: 576px) {
+  #carouselExampleCaptions{
+    height: 50vh;
+    
+}
   
-  img{
-      height: 500px;
-      background-color: #d9d3d3;
-      border-radius: 5px;
-  }
   
   .container .card{
       width: auto;
