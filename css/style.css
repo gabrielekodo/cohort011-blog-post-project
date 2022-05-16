@@ -86,7 +86,7 @@ input{
 /* media queries for home page */
 @media screen and (max-width: 576px) {
   #carouselExampleCaptions{
-    height: 50vh;
+    height: auto;
     
 }
   
